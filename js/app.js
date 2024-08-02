@@ -4,7 +4,7 @@ function openModal(infoId) {
 
     switch (infoId) {
         case 'info1':
-            modalBody.innerHTML = '<img src="./assets/diet.png" alt="Diet"> <h2>Diet</h2><p>A healthy diet is essential for maintaining good health and well-being. It involves consuming a variety of foods in the right proportions and consuming the right amount of food and drink to achieve and maintain a healthy body weight.</p>';
+            modalBody.innerHTML = '<img src="./assets/exercise.jpg" alt="exercise"> <h2>Exercise</h2><p>Regular exercise helps improve cardiovascular health, build muscle, and boost mood. Aim for a mix of aerobic exercises and strength training.</p>';
             break;
         case 'info2':
             modalBody.innerHTML = '<img src="./assets/exercise.jpg" alt="exercise"> <h2>Exercise</h2><p>Regular exercise helps improve cardiovascular health, build muscle, and boost mood. Aim for a mix of aerobic exercises and strength training.</p>';
