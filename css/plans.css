@@ -50,9 +50,15 @@ ul li {
     margin-bottom: 10px;
 }
 
+.btn {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 4%;
+}
+
 .btn-consult {
     display: block;
-    width: 72.5%;
+    width: 100%;
     margin: 0 auto;
     padding: 0.75rem;
     background-color: var(--primary-color);
@@ -65,7 +71,6 @@ ul li {
     margin-top: 15px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
-    margin-bottom: 500px;
 }
 
 .btn-consult:hover {
