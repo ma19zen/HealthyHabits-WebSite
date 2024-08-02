@@ -10,7 +10,7 @@ function openModal(infoId) {
             modalBody.innerHTML = '<img src="./assets/exercise.jpg" alt="exercise"> <h2>Exercise</h2><p>Regular exercise helps improve cardiovascular health, build muscle, and boost mood. Aim for a mix of aerobic exercises and strength training.</p>';
             break;
         case 'info3':
-            modalBody.innerHTML = '<img src="./assets/sleep.png" alt="sleep"> <h2>Sleep</h2><p>Good quality sleep is crucial for maintaining overall health and well-being. It affects nearly every aspect of our lives, from energy levels and concentration to mood and physical health. To maximize the benefits of sleep.</p>';
+            modalBody.innerHTML = '<img src="./assets/sleep.PNG" alt="sleep"> <h2>Sleep</h2><p>Good quality sleep is crucial for maintaining overall health and well-being. It affects nearly every aspect of our lives, from energy levels and concentration to mood and physical health. To maximize the benefits of sleep.</p>';
             break;
         case 'info4':
             modalBody.innerHTML = '<img src="./assets/hydration.PNG" alt="hydration"> <h2>Hydration</h2><p>Staying hydrated is crucial for maintaining overall health, as it supports vital bodily functions, enhances energy levels, and promotes clear thinking throughout the day.</p>';
