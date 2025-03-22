@@ -40,4 +40,5 @@ window.onclick = function(event) {
 }
 
 const username = localStorage.getItem('username');
-document.getElementById('greeting').innerText = `Hello, ${username}!`;
+// document.getElementById('greeting').innerText = `Hello, ${username}!`;
+document.getElementById('greeting').innerText = `Hello,`;
